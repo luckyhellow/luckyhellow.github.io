@@ -1,7 +1,8 @@
 ## Welcome to luckyhellow's Home
 
 You can contact me at [571785106@qq.com](571785106@qq.com)
-
+<!-- ![photo](photo.jpg) -->
+<img src="photo.jpg" width = "20%" height = "20%" alt="photo" align=right />
 Name  ：Hao \*\
 Age     ：2\*\
 Phone ：185****6790\
