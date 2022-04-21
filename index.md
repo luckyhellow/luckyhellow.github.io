@@ -9,4 +9,6 @@ School   ：Nanjing University\
 Email  ：571785106@qq.com\
 Education：undergraduate\
 rection：Machine Learning and Data Mining\
-Group：(RINC)Robotic Intelligence & Neural Computing Group
+Group：(RINC)Robotic Intelligence & Neural Computing Group\
+\
+[pic1](pic1.png)
