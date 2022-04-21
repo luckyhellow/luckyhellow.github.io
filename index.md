@@ -11,4 +11,4 @@ Education：undergraduate\
 rection：Machine Learning and Data Mining\
 Group：(RINC)Robotic Intelligence & Neural Computing Group\
 \
-[pic1](pic1.png)
+![pic1](pic1.jpg)
