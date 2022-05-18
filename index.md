@@ -14,6 +14,8 @@ Group：(RINC)Robotic Intelligence & Neural Computing Group\
 My little project:\
 \
 [pvz game with C++ and QT](https://github.com/luckyhellow/PVZ_QT)\
+![pic2](PVZ.png)\
 [indoor_locate_app(Doing now)](https://github.com/luckyhellow/loc_project)\
+![pic3](loc.png)\
 \
 ![pic1](pic1.jpg)
