@@ -2,7 +2,7 @@
 
 You can contact me at [571785106@qq.com](571785106@qq.com)\
 \
-<img src="photo.png" alt="drawing" align='right' width="80"/>
+<img src="pic.png" alt="drawing" align='right' width="80"/>
 Name  ：Hao \*\
 Age     ：2\*\
 Phone ：185****6790\
