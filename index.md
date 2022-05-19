@@ -9,7 +9,7 @@ Phone ：185****6790\
 School   ：Nanjing University\
 Email  ：571785106@qq.com\
 Education：undergraduate\
-rection：Machine Learning and Data Mining\
+Major：Machine Learning and Data Mining\
 Group：(RINC)Robotic Intelligence & Neural Computing Group\
 \
 My little project:\
