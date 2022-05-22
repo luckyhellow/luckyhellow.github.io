@@ -18,6 +18,7 @@ My little project:\
 <img src="PVZ.png" alt="drawing" width="600"/>\
 \
 [indoor_locate_app(Doing now)](https://github.com/luckyhellow/loc_project)\
+[Introduction](https://kwwi5a2ur5.feishu.cn/docs/doccndqccTci2ixbNmX3CWAfNKh)\
 <img src="loc.png" alt="drawing" width="400"/>\
 \
 ![pic1](pic1.jpg)
