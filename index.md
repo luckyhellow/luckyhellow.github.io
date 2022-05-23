@@ -21,4 +21,7 @@ My little project:\
 [Introduction](https://kwwi5a2ur5.feishu.cn/docs/doccndqccTci2ixbNmX3CWAfNKh)\
 <img src="loc.png" alt="drawing" width="400"/>\
 \
+(private)Robocup3D Robot soccer game
+<img src="robocup3d.png" alt="drawing" width="400"/>\
+\
 ![pic1](pic1.jpg)
