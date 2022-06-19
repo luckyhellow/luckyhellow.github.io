@@ -17,7 +17,7 @@ My little project:\
 [GITHUB:pvz game with C++ and QT](https://github.com/luckyhellow/PVZ_QT)\
 <img src="PVZ.png" alt="drawing" width="600"/>\
 \
-[GITHUB:indoor_locate_app(Doing now)](https://github.com/luckyhellow/loc_project)\
+[GITHUB:indoor_locate_app](https://github.com/luckyhellow/loc_project)\
 [Introduction](https://kwwi5a2ur5.feishu.cn/docs/doccndqccTci2ixbNmX3CWAfNKh)\
 <img src="loc.png" alt="drawing" width="400"/>\
 \
