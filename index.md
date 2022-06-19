@@ -2,7 +2,7 @@
 
 You can contact me at [luckyhelloworld@qq.com](luckyhelloworld@qq.com)\
 \
-<img src="pic.png" alt="drawing" align='right' width="150"/>
+<img src="pic.jpg" alt="drawing" align='right' width="150"/>
 Name  ：Hao \*\
 Age     ：2\*\
 Phone ：185****6790\
